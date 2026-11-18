@@ -19,7 +19,9 @@
 
 Hi, I'm **Md Emon Rana** — a **BSc in CSE student at Southeast University, Dhaka, Bangladesh**, building my career in **Data Science, AI, and Machine Learning**.
 
-I love turning data into clear stories. I work with **Python, NumPy, Pandas, Matplotlib, and SQL** to analyse data, visualise patterns, and learn how models think.
+I love turning data into clear stories. I work with **Python, NumPy, Pandas, Matplotlib, SQL, and scikit-learn** to analyse data, build machine learning models, and visualise patterns.
+
+> 🤖 **Machine Learning:** I build ML projects on real data — **Diabetes Prediction** on 768 real patients (Random Forest, 74.0%) and **Migraine Classification** on 400 real patients (Logistic Regression, 93.8%).
 
 > 🔬 **Research:** Co-author on a final-year project studying how **generative AI affects students' creativity and academic performance** — a survey of university students *(pilot: 100 respondents)*.
 
