@@ -19,7 +19,7 @@
 
 Hi, I'm **Md Emon Rana** — a **BSc in CSE student at Southeast University, Dhaka, Bangladesh**, building my career in **Data Science, AI, and Machine Learning**.
 
-I love turning data into clear stories. I work with **Python, NumPy, Pandas, and Matplotlib** to analyse data, visualise patterns, and learn how models think.
+I love turning data into clear stories. I work with **Python, NumPy, Pandas, Matplotlib, and SQL** to analyse data, visualise patterns, and learn how models think.
 
 > 🔬 **Research:** Co-author on a final-year project studying how **generative AI affects students' creativity and academic performance** — a survey of university students *(pilot: 100 respondents)*.
 
@@ -50,7 +50,7 @@ I also build **IoT prototypes with ESP32 and Arduino** — smart water tanks and
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,arduino,git,github,vscode,jupyter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,arduino,mysql,git,github,vscode,jupyter&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -58,6 +58,7 @@ I also build **IoT prototypes with ESP32 and Arduino** — smart water tanks and
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
