@@ -1,46 +1,60 @@
 <div align="center">
 
-# Md Emon Rana
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=200&section=header&text=Md%20Emon%20Rana&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Data%20Science%20%7C%20AI%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=56&descSize=16)
 
-### Data Science • AI • Python • Machine Learning
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=640&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Python+%7C+AI+%7C+Machine+Learning+%F0%9F%A4%96;Generative+AI+Researcher+%F0%9F%94%AC;Turning+Data+Into+Stories+%F0%9F%93%88" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=24292F&center=true&vCenter=true&width=640&lines=Aspiring+Data+Scientist;Python+%7C+AI+%7C+Machine+Learning;Generative+AI+Researcher;CSE+Student+%40+Southeast+University" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=emonrana14949-droid&label=Profile%20views&color=6e7781&style=flat" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/emonrana14949-droid?label=Followers&style=flat&color=6e7781" alt="Followers" />
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emonrana14949@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emonrana14949-droid)
+<img src="https://komarev.com/ghpvc/?username=emonrana14949-droid&label=Profile%20views&color=BD93F9&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/emonrana14949-droid?label=Followers&style=for-the-badge&color=BD93F9" alt="Followers" />
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👋 About Me
 
-🎓 **BSc in CSE** student at **Southeast University, Dhaka, Bangladesh**
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPCQ/giphy.gif" alt="Coding" />
 
-📊 I am building my career in **Data Science, AI and Machine Learning** — working with **Python, NumPy, Pandas and Matplotlib** to analyse data, visualise patterns and learn how models think.
+Hi, I'm **Md Emon Rana** — a **BSc in CSE student at Southeast University, Dhaka, Bangladesh**, building my career in **Data Science, AI, and Machine Learning**.
 
-🔬 Co-author on a final year design project studying how **generative AI** affects students' creativity and academic performance — a questionnaire survey of university students (pilot: 100 respondents).
+I love turning data into clear stories. I work with **Python, NumPy, Pandas, and Matplotlib** to analyse data, visualise patterns, and learn how models think.
 
-🌱 Currently learning: **Machine Learning with Python — Pandas, scikit-learn and beyond**
+> 🔬 **Research:** Co-author on a final-year project studying how **generative AI affects students' creativity and academic performance** — a survey of university students *(pilot: 100 respondents)*.
 
-🔌 I also build embedded & IoT prototypes with ESP32 and Arduino — smart water tanks and GPS rescue trackers.
+I also build **IoT prototypes with ESP32 and Arduino** — smart water tanks and GPS rescue trackers.
 
----
+<br clear="right"/>
 
-## 🎯 Current Focus
-
-- 🐍 **Python for Data Science** — NumPy, Pandas, Matplotlib
-- 🤖 **Machine Learning** — learning the core algorithms step by step
-- 📈 **Data Analysis & Visualisation** — surveys, statistics, storytelling with charts
-- 🧠 **Generative AI** — how students use it, and what it does to creativity
+- 🎓 **Education:** BSc in CSE — Southeast University, Dhaka
+- 📊 **Focus:** Data Science, AI & Machine Learning
+- 🌱 **Learning now:** Machine Learning with Python — Pandas, scikit-learn and beyond
+- 📫 **Reach me:** emonrana14949@gmail.com
 
 ---
 
-## 🛠️ Skills & Tools
+## 🎯 What I Do
 
-**Data Science & AI/ML**
+| | |
+| :--- | :--- |
+| 🐍 **Python for Data Science** | NumPy, Pandas, Matplotlib — clean data, clear analysis |
+| 🤖 **Machine Learning** | Core algorithms, step by step |
+| 📈 **Data Visualisation** | Surveys, statistics, storytelling with charts |
+| 🧠 **Generative AI** | How students use it, and what it does to creativity |
+| 🔌 **IoT & Embedded** | ESP32 & Arduino — real-world prototypes |
 
-<p>
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,arduino,git,github,vscode,jupyter&theme=dark)](https://skillicons.dev)
+
+</div>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -49,78 +63,70 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-**Languages, Embedded & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Best Projects
 
-### 📊 Data Science Projects
+<div align="center">
 
-- 🔬 [**student-ai-impact-analysis**](https://github.com/emonrana14949-droid/student-ai-impact-analysis) — AI usage vs student creativity & performance (Pandas, NumPy, Matplotlib)
-- 🎓 [**online-course-learning-analysis**](https://github.com/emonrana14949-droid/online-course-learning-analysis) — online learners, completion & scores
-- 🛒 [**ecommerce-sales-analysis**](https://github.com/emonrana14949-droid/ecommerce-sales-analysis) — e-commerce revenue, categories & cities (BDT)
-- 🌦️ [**dhaka-weather-data-analysis**](https://github.com/emonrana14949-droid/dhaka-weather-data-analysis) — a year of Dhaka weather & AQI patterns
-- 🏏 [**cricket-player-performance-analysis**](https://github.com/emonrana14949-droid/cricket-player-performance-analysis) — Bangladesh cricket batting analysis
-- 💰 [**personal-expense-tracker-analysis**](https://github.com/emonrana14949-droid/personal-expense-tracker-analysis) — personal spending & savings analysis
-- 🔢 [**numpy-50-examples**](https://github.com/emonrana14949-droid/numpy-50-examples) — NumPy in 50 examples
-- 📈 [**data-visualization-50-examples**](https://github.com/emonrana14949-droid/data-visualization-50-examples) — Matplotlib data visualization in 50 examples
+[![Student AI Impact](https://github-readme-stats.vercel.app/api/pin/?username=emonrana14949-droid&repo=student-ai-impact-analysis&theme=dracula&hide_border=true)](https://github.com/emonrana14949-droid/student-ai-impact-analysis)
+[![Ecommerce Sales](https://github-readme-stats.vercel.app/api/pin/?username=emonrana14949-droid&repo=ecommerce-sales-analysis&theme=dracula&hide_border=true)](https://github.com/emonrana14949-droid/ecommerce-sales-analysis)
 
-> 📖 Every Data Science project above includes a full step-by-step `PROJECT_GUIDE.md` inside it — what the project is, what every file and column means, how the code works from the start, and viva Q&A.
+[![Dhaka Weather](https://github-readme-stats.vercel.app/api/pin/?username=emonrana14949-droid&repo=dhaka-weather-data-analysis&theme=dracula&hide_border=true)](https://github.com/emonrana14949-droid/dhaka-weather-data-analysis)
+[![Cricket Analysis](https://github-readme-stats.vercel.app/api/pin/?username=emonrana14949-droid&repo=cricket-player-performance-analysis&theme=dracula&hide_border=true)](https://github.com/emonrana14949-droid/cricket-player-performance-analysis)
 
-### 🌐 Website Projects
+</div>
 
-- 📚 [**focusflow-study-planner**](https://github.com/emonrana14949-droid/focusflow-study-planner) — study planner + Pomodoro timer website
-- 🧠 [**quizmaster-python-quiz**](https://github.com/emonrana14949-droid/quizmaster-python-quiz) — Python & Data Science quiz website
-- 💸 [**kharchatrack-expense-tracker**](https://github.com/emonrana14949-droid/kharchatrack-expense-tracker) — BDT expense tracker website
+### All Projects
 
-### 🎓 University Projects
+**Data Science:** [student-ai-impact-analysis](https://github.com/emonrana14949-droid/student-ai-impact-analysis) • [online-course-learning-analysis](https://github.com/emonrana14949-droid/online-course-learning-analysis) • [ecommerce-sales-analysis](https://github.com/emonrana14949-droid/ecommerce-sales-analysis) • [dhaka-weather-data-analysis](https://github.com/emonrana14949-droid/dhaka-weather-data-analysis) • [cricket-player-performance-analysis](https://github.com/emonrana14949-droid/cricket-player-performance-analysis) • [personal-expense-tracker-analysis](https://github.com/emonrana14949-droid/personal-expense-tracker-analysis) • [numpy-50-examples](https://github.com/emonrana14949-droid/numpy-50-examples) • [data-visualization-50-examples](https://github.com/emonrana14949-droid/data-visualization-50-examples)
 
-- 💧 [**smart-water-tank-pump-controller**](https://github.com/emonrana14949-droid/smart-water-tank-pump-controller) — ESP32 IoT water tank & pump controller (CSE 382)
-- 🆘 [**smart-disaster-rescue-gps-tracker**](https://github.com/emonrana14949-droid/smart-disaster-rescue-gps-tracker) — Arduino GPS/GSM disaster rescue system (CSE 382)
-- 🧮 [**bellman-ford-yen-bf-poster**](https://github.com/emonrana14949-droid/bellman-ford-yen-bf-poster) — Bellman-Ford / Yen-BF algorithm poster
+**Websites:** [focusflow-study-planner](https://github.com/emonrana14949-droid/focusflow-study-planner) • [quizmaster-python-quiz](https://github.com/emonrana14949-droid/quizmaster-python-quiz) • [kharchatrack-expense-tracker](https://github.com/emonrana14949-droid/kharchatrack-expense-tracker)
+
+**University / IoT:** [smart-water-tank-pump-controller](https://github.com/emonrana14949-droid/smart-water-tank-pump-controller) • [smart-disaster-rescue-gps-tracker](https://github.com/emonrana14949-droid/smart-disaster-rescue-gps-tracker) • [bellman-ford-yen-bf-poster](https://github.com/emonrana14949-droid/bellman-ford-yen-bf-poster)
+
+> 📖 Every Data Science project includes a full step-by-step `PROJECT_GUIDE.md` — what the project is, what every file and column means, how the code works, and viva Q&A.
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emonrana14949-droid&show_icons=true&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=6e7781" alt="Emon's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonrana14949-droid&layout=compact&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=57606a" alt="Top languages" height="170" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=emonrana14949-droid&hide_border=true&border_radius=10&background=ffffff&stroke=6e7781&ring=24292f&fire=24292f&currStreakNum=24292f&sideNums=57606a&currStreakLabel=57606a&sideLabels=57606a&dates=57606a" alt="GitHub streak" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=emonrana14949-droid&show_icons=true&theme=dracula&hide_border=true" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonrana14949-droid&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top languages" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emonrana14949-droid&bg_color=ffffff&color=24292f&line=6e7781&point=24292f&area=true&hide_border=true" alt="Activity graph" width="95%" />
-</p>
+<img width="70%" src="https://streak-stats.demolab.com?user=emonrana14949-droid&theme=dracula&hide_border=true&border_radius=10" alt="GitHub streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=emonrana14949-droid&bg_color=282a36&color=f8f8f2&line=bd93f9&point=ff79c6&area=true&hide_border=true" alt="Activity graph" />
+
+</div>
 
 ---
 
 ## 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emonrana14949-droid&theme=flat&no-frame=true&row=1" alt="Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emonrana14949-droid&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</div>
 
 ---
 
 ## 🎓 Education
 
-**BSc in Computer Science and Engineering** — Southeast University, Dhaka, Bangladesh
+<div align="center">
+
+**BSc in Computer Science and Engineering** — Southeast University, Dhaka, Bangladesh 🇧🇩
+
+</div>
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repositories!</i> ⭐</p>
+<div align="center">
+
+### Let's build something amazing together! ✨
+*Thanks for stopping by — feel free to explore my repositories!* ⭐
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=120&section=footer)
+
+</div>
