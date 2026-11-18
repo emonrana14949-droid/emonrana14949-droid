@@ -28,6 +28,7 @@ I also build **IoT prototypes with ESP32 and Arduino** — smart water tanks and
 <br clear="right"/>
 
 - 🎓 **Education:** BSc in CSE — Southeast University, Dhaka
+- 🛠️ **Skills:** Python, SQL, NumPy, Pandas, Matplotlib, scikit-learn, Machine Learning, LaTeX
 - 📊 **Focus:** Data Science, AI & Machine Learning
 - 🌱 **Learning now:** Machine Learning with Python — Pandas, scikit-learn and beyond
 - 📫 **Reach me:** emonrana14949@gmail.com
@@ -50,7 +51,7 @@ I also build **IoT prototypes with ESP32 and Arduino** — smart water tanks and
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,arduino,mysql,git,github,vscode,jupyter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,arduino,mysql,latex,git,github,vscode,jupyter&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -59,6 +60,7 @@ I also build **IoT prototypes with ESP32 and Arduino** — smart water tanks and
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
